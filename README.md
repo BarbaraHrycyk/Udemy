@@ -16,6 +16,7 @@ Welcome to my GitHub repository! Hereby  I've been attaching certificates obtain
 |6|Google Chrome Developer Tools|Mateusz Kruszyk|07/2023|[LINK](https://ude.my/UC-784800be-96cb-4de5-ad92-26cd67fb3a99)
 |7|Kurs Git dla początkujących|Tester Oprogramowania (Bartosz Dudziński)|08/2023|[LINK](https://ude.my/UC-2cc30b3f-5530-46c3-aaf9-91dd2a62debf)
 |8|GIT od podstaw dla każdego|Adrian Szuszkiewicz|08/2023|[LINK](https://ude.my/UC-8255dffd-5fcf-4e95-ae66-2f0a24af268d)
+|9|Kurs Tworzenia Stron WWW cz. I - HTML, CSS, RWD|Mateusz Maj|09/2023|[LINK](https://ude.my/UC-0227d6c5-4b99-47c6-ac9d-89ce75c93c26)
 <br>
 <h3 align="center">🙋‍♀️ <strong>Thank you for visiting!</strong> 🙋‍♀️</h3>
 <br>
